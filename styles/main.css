@@ -7,7 +7,7 @@
 body { 
 	margin:0; 
 	font-family:'tahoma';
-	background-image: url('../images/CroatianSquareredcrsmallest.JPG');
+	background-image: url('../images/CroatianSquareredcrsmallest.JPG'); 
 	background-attachment: fixed; /* this keeps the background image fixed, while rest of page scrolls*/
 	padding: 3%;
 }
@@ -198,7 +198,7 @@ nav ul ul li a:hover, nav ul ul li a:active {
 	padding-left:5%;
 	float: left;
 	text-align: center;
-	margin-top: 2%;
+	margin-top: 0%;
 }
   
   
@@ -788,7 +788,7 @@ footer p {
 	}
 		
 	.homepage-left {
-		margin-top: 4%;	
+		margin-top: 0%;	
 	}
 	
 	#about-right-top-p {
@@ -888,7 +888,11 @@ footer p {
 	text-align: center;
 }
 		
-	
+  
+#paypalDonate {
+	width: 50%;
+  	margin-top: 3%;	
+}	
 }
 
 
@@ -1074,7 +1078,11 @@ nav ul li a {
 	padding-left: 0;	
 }
 	
-	
+  
+#paypalDonate {
+	width: 40%;
+  	margin-top: 3%;	
+}	
 	
 	
 	
